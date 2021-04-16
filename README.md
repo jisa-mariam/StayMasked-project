@@ -1,0 +1,2 @@
+This repository contains the wireframes I did for the 'StayMasked' mask distribution intiative, during my internship at Beep Technologies. 
+There are 2 versions of wireframes - one for mobile and one for desktop.
